@@ -1,5 +1,5 @@
 # avalon-analysis
-**Notebooks and scripts for Medium article "Disillusion Avalon"**
+**Notebooks and scripts for Medium article "[Disillusion Avalon](https://medium.com/@a1080211jeff/disillusion-avalon-board-game-data-analysis-b30bb75d2cf7)"**
 
 <img src="https://github.com/HiIamJeff/avalon-analysis/blob/main/assets/wallpaper2.png" width="60%" height="60%"/>
 
