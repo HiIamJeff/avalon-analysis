@@ -1,6 +1,8 @@
 # avalon-analysis
 **Notebooks and scripts for Medium article "Disillusion Avalon"**
 
+<img src="https://github.com/HiIamJeff/avalon-analysis/blob/main/assets/wallpaper2.png" width="60%" height="60%"/>
+
 The repo contains the notebook for analysis and the script for feature engineering.
 
 ## Data 
